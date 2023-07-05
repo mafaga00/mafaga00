@@ -11,14 +11,16 @@
 ***
 
 ### 🛠 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5c494a0cd80c9375a764ae95be0eeba583b07014/python-svgrepo-com.svg"></a>
-<a href="https://www.selenium.dev/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/master/Selenium%20logo%20mark%20green.svg" alt="Selenium" height='45px'/></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://github.com/mafaga00/mafaga00/blob/master/python-svgrepo-com.svg"></a>
+<a href="https://www.selenium.dev/" target="_blank"> <img align="left" src="https://github.com/mafaga00/mafaga00/blob/master/Selenium%20logo%20mark%20green.svg" alt="Selenium" height='45px'/></a>
 <a href="https://docs.pytest.org/en/7.3.x/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/master/pytest.svg" alt="Pytest" height='70px'/></a>
-<a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman" height ="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/38999e3946d16ff7d8102a5f1e9b81c4b3c5d887/postman-icon-svgrepo-com.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/b9ac63c9d2e6aaabd538c8fe1ba9b0b03efe7261/git-svgrepo-com.svg" align="left" alt="git" height='49px'/></a>
-<a href="https://miro.com/" target="_blank"> <img align="left" alt="Miro" height ="42px"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/8e28783ec35a7d29d0889af84cd25130dc46be67/miro-logos-idG4aRyg5R.svg"> </a>
-<a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/e787af0f5d22935faa689dbbfeba22f44228d294/icons8-figma-96.svg" alt="Figma" height='48px'/></a>
-<a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img align="left" alt="Jira" height ="42px" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/51a4c6f8382e0f214b0d5a3196e3217492de7bd4/jira-svgrepo-com.svg"></a>
+<a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman" height ="42px" src="https://github.com/mafaga00/mafaga00/blob/master/postman-icon-svgrepo-com.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://github.com/mafaga00/mafaga00/blob/master/git-svgrepo-com.svg" align="left" alt="git" height='49px'/></a>
+<a href="https://miro.com/" target="_blank"> <img align="left" alt="Miro" height ="42px"  src="https://github.com/mafaga00/mafaga00/blob/master/miro-logos-idG4aRyg5R.svg"> </a>
+<a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://github.com/mafaga00/mafaga00/blob/master/icons8-figma-96.svg" alt="Figma" height='48px'/></a>
+<a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img align="left" alt="Jira" height ="42px" src="https://github.com/mafaga00/mafaga00/blob/master/jira-svgrepo-com.svg"></a>
+<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="SQL" height ="42px" src="https://github.com/mafaga00/mafaga00/blob/master/sql-database-generic-svgrepo-com.svg"></a>
+<a href="https://developer.chrome.com/docs/devtools/" target="_blank"> <img align="left" alt="SQL" height ="42px" src="https://github.com/mafaga00/mafaga00/blob/master/chrome-devtools-svgrepo-com.svg"></a>
 
 
 <br>
