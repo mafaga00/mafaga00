@@ -66,11 +66,10 @@
 ![Client server](https://img.shields.io/badge/Client%20Server-a25aff?style=for-the-badge&logo=Client-Server&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-ed1c24?style=for-the-badge&logo=SQL&logoColor=47C5FB)
 ![GitBash](https://img.shields.io/badge/-Git%20Bash-674ea7?style=for-the-badge&logo=Git%20Bash&logoColor=white)
+![Charles](https://img.shields.io/badge/-Charles-095fda?style=for-the-badge&logo=JMeter&logoColor=white)
 ![JMeter](https://img.shields.io/badge/-JMeter-095fda?style=for-the-badge&logo=JMeter&logoColor=white)
 ![Windows](https://img.shields.io/badge/-windows-fcc525?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-3ae180?style=for-the-badge&logo=Linux&logoColor=white)
-![Работа_в_команде](https://img.shields.io/badge/-Работа_в_команде-fcc525?style=for-the-badge&logoColor=47C5FB)
-![Навыки обучения](https://img.shields.io/badge/-Навыки_обучения-3ae180?style=for-the-badge&logoColor=47C5FB)
 
 <br>
 
