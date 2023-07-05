@@ -10,7 +10,8 @@
 
 ***
 
-### 🛠 Languages and Tools:
+<h3 align="left"> 🛠 Languages and Tools:</h3>
+<p align="left">
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="35px" src="https://github.com/mafaga00/mafaga00/blob/master/python-svgrepo-com.svg"></a>
 <a href="https://www.selenium.dev/" target="_blank"> <img align="left" src="https://github.com/mafaga00/mafaga00/blob/master/Selenium%20logo%20mark%20green.svg" alt="Selenium" height='35px'/></a>
 <a href="https://docs.pytest.org/en/7.3.x/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/master/pytest.svg" alt="Pytest" height='35px'/></a>
@@ -25,7 +26,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img align="left" alt="Linux" height ="35px" src="https://github.com/mafaga00/mafaga00/blob/master/linux-svgrepo-com.svg"></a>
 <a href="https://developer.android.com/studio" target="_blank"> <img align="left" alt="Android Studio" height ="35px" src="https://github.com/mafaga00/mafaga00/blob/master/android-studio-icon.svg"></a>
 <a href="https://www.charlesproxy.com/" target="_blank"> <img align="left" alt="Charles" height ="35px" src="https://davidwalsh.name/demo/charlesproxyicon.svg"></a>
-<a href="https://jmeter.apache.org/" target="_blank"> <img align="left" alt="Jmeter" height ="35px" src="http://home.apache.org/~fschumacher/jmeter.svg"></a>
+<a href="https://jmeter.apache.org/" target="_blank"> <img align="left" alt="Jmeter" height ="35px" src="http://home.apache.org/~fschumacher/jmeter.svg"> </a></p>
 
 <br>
 <br>
