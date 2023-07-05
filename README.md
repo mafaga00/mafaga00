@@ -11,21 +11,21 @@
 ***
 
 ### 🛠 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://github.com/mafaga00/mafaga00/blob/master/python-svgrepo-com.svg"></a>
-<a href="https://www.selenium.dev/" target="_blank"> <img align="left" src="https://github.com/mafaga00/mafaga00/blob/master/Selenium%20logo%20mark%20green.svg" alt="Selenium" height='45px'/></a>
-<a href="https://docs.pytest.org/en/7.3.x/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/master/pytest.svg" alt="Pytest" height='70px'/></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="35px" src="https://github.com/mafaga00/mafaga00/blob/master/python-svgrepo-com.svg"></a>
+<a href="https://www.selenium.dev/" target="_blank"> <img align="left" src="https://github.com/mafaga00/mafaga00/blob/master/Selenium%20logo%20mark%20green.svg" alt="Selenium" height='35px'/></a>
+<a href="https://docs.pytest.org/en/7.3.x/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/master/pytest.svg" alt="Pytest" height='35px'/></a>
 <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="42px" src="https://github.com/mafaga00/mafaga00/blob/master/javascript-logo-svgrepo-com.svg"></a>
-<a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman" height ="42px" src="https://github.com/mafaga00/mafaga00/blob/master/postman-icon-svgrepo-com.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://github.com/mafaga00/mafaga00/blob/master/git-svgrepo-com.svg" align="left" alt="git" height='49px'/></a>
-<a href="https://miro.com/" target="_blank"> <img align="left" alt="Miro" height ="42px"  src="https://github.com/mafaga00/mafaga00/blob/master/miro-logos-idG4aRyg5R.svg"> </a>
-<a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://github.com/mafaga00/mafaga00/blob/master/icons8-figma-96.svg" alt="Figma" height='48px'/></a>
-<a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img align="left" alt="Jira" height ="42px" src="https://github.com/mafaga00/mafaga00/blob/master/jira-svgrepo-com.svg"></a>
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="SQL" height ="42px" src="https://github.com/mafaga00/mafaga00/blob/master/sql-database-generic-svgrepo-com.svg"></a>
-<a href="https://developer.chrome.com/docs/devtools/" target="_blank"> <img align="left" alt="DevTools" height ="42px" src="https://github.com/mafaga00/mafaga00/blob/master/chrome-devtools-svgrepo-com.svg"></a>
-<a href="https://www.linux.org/" target="_blank"> <img align="left" alt="Linux" height ="42px" src="https://github.com/mafaga00/mafaga00/blob/master/linux-svgrepo-com.svg"></a>
-<a href="https://developer.android.com/studio" target="_blank"> <img align="left" alt="Android Studio" height ="42px" src="https://github.com/mafaga00/mafaga00/blob/master/android-studio-icon.svg"></a>
-<a href="https://www.charlesproxy.com/" target="_blank"> <img align="left" alt="Charles" height ="42px" src="https://davidwalsh.name/demo/charlesproxyicon.svg"></a>
-<a href="https://jmeter.apache.org/" target="_blank"> <img align="left" alt="Jmeter" height ="30px" src="http://home.apache.org/~fschumacher/jmeter.svg"></a>
+<a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman" height ="35px" src="https://github.com/mafaga00/mafaga00/blob/master/postman-icon-svgrepo-com.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://github.com/mafaga00/mafaga00/blob/master/git-svgrepo-com.svg" align="left" alt="git" height='35px'/></a>
+<a href="https://miro.com/" target="_blank"> <img align="left" alt="Miro" height ="35px"  src="https://github.com/mafaga00/mafaga00/blob/master/miro-logos-idG4aRyg5R.svg"> </a>
+<a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://github.com/mafaga00/mafaga00/blob/master/icons8-figma-96.svg" alt="Figma" height='35px'/></a>
+<a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img align="left" alt="Jira" height ="35px" src="https://github.com/mafaga00/mafaga00/blob/master/jira-svgrepo-com.svg"></a>
+<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="SQL" height ="35px" src="https://github.com/mafaga00/mafaga00/blob/master/sql-database-generic-svgrepo-com.svg"></a>
+<a href="https://developer.chrome.com/docs/devtools/" target="_blank"> <img align="left" alt="DevTools" height ="35px" src="https://github.com/mafaga00/mafaga00/blob/master/chrome-devtools-svgrepo-com.svg"></a>
+<a href="https://www.linux.org/" target="_blank"> <img align="left" alt="Linux" height ="35px" src="https://github.com/mafaga00/mafaga00/blob/master/linux-svgrepo-com.svg"></a>
+<a href="https://developer.android.com/studio" target="_blank"> <img align="left" alt="Android Studio" height ="35px" src="https://github.com/mafaga00/mafaga00/blob/master/android-studio-icon.svg"></a>
+<a href="https://www.charlesproxy.com/" target="_blank"> <img align="left" alt="Charles" height ="35px" src="https://davidwalsh.name/demo/charlesproxyicon.svg"></a>
+<a href="https://jmeter.apache.org/" target="_blank"> <img align="left" alt="Jmeter" height ="35px" src="http://home.apache.org/~fschumacher/jmeter.svg"></a>
 
 <br>
 <br>
