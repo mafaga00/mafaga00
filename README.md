@@ -26,10 +26,7 @@
 <a href="https://www.linux.org/" target="_blank"> <img align="left" alt="Linux" height ="35px" src="https://github.com/mafaga00/mafaga00/blob/master/linux-svgrepo-com.svg"></a>
 <a href="https://developer.android.com/studio" target="_blank"> <img align="left" alt="Android Studio" height ="35px" src="https://github.com/mafaga00/mafaga00/blob/master/android-studio-icon.svg"></a>
 <a href="https://www.charlesproxy.com/" target="_blank"> <img align="left" alt="Charles" height ="35px" src="https://davidwalsh.name/demo/charlesproxyicon.svg"></a>
-<a href="https://jmeter.apache.org/" target="_blank"> <img align="left" alt="Jmeter" height ="35px" src="http://home.apache.org/~fschumacher/jmeter.svg"> </a></p>
-
-<br>
-<br>
+</p>
 <br>
 <h3 align="left">📲 Connection with me:</h3>
 <p align="left">
