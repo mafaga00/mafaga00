@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Nikita</h1>
+<h1 align="center">Привет, меня зовут Никита!</h1>
 
 <div align="center">
   <img src="https://i.gifer.com/origin/01/01bce837b060e1f9121a684ab9462e54_w200.gif">
@@ -6,36 +6,90 @@
 
 <h3 align="center">Junior QA-engineer from Russia</h3>
 
-<br>
+---
+
+### :man_technologist: Обо мне:
+
+Я начинающий тестировщик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался со Skillfactory, где я прошел курс "Тестировщик-автоматизатор на Python". В период прохождения курса устроился на коммерческую практику в инвестиционное приложение, а позже в приложение по продаже натуральных препаратов и БАДов. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно продолжая обучение на курсе Вадима Ксендзова и прохождение коммерческой практики.
 
 ***
 
-<h3 align="left"> 🛠 Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="35px" src="https://github.com/mafaga00/mafaga00/blob/master/python-svgrepo-com.svg"></a>
-<a href="https://www.selenium.dev/" target="_blank"> <img align="left" src="https://github.com/mafaga00/mafaga00/blob/master/Selenium%20logo%20mark%20green.svg" alt="Selenium" height='35px'/></a>
-<a href="https://docs.pytest.org/en/7.3.x/" target="_blank"> <img align="left" src="https://github.com/DenisZhutaev/DenisZhutaev/blob/master/pytest.svg" alt="Pytest" height='35px'/></a>
-<a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="42px" src="https://github.com/mafaga00/mafaga00/blob/master/javascript-logo-svgrepo-com.svg"></a>
-<a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman" height ="35px" src="https://github.com/mafaga00/mafaga00/blob/master/postman-icon-svgrepo-com.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://github.com/mafaga00/mafaga00/blob/master/git-svgrepo-com.svg" align="left" alt="git" height='35px'/></a>
-<a href="https://miro.com/" target="_blank"> <img align="left" alt="Miro" height ="35px"  src="https://github.com/mafaga00/mafaga00/blob/master/miro-logos-idG4aRyg5R.svg"> </a>
-<a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://github.com/mafaga00/mafaga00/blob/master/icons8-figma-96.svg" alt="Figma" height='35px'/></a>
-<a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img align="left" alt="Jira" height ="35px" src="https://github.com/mafaga00/mafaga00/blob/master/jira-svgrepo-com.svg"></a>
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="SQL" height ="35px" src="https://github.com/mafaga00/mafaga00/blob/master/sql-database-generic-svgrepo-com.svg"></a>
-<a href="https://developer.chrome.com/docs/devtools/" target="_blank"> <img align="left" alt="DevTools" height ="35px" src="https://github.com/mafaga00/mafaga00/blob/master/chrome-devtools-svgrepo-com.svg"></a>
-<a href="https://www.linux.org/" target="_blank"> <img align="left" alt="Linux" height ="35px" src="https://github.com/mafaga00/mafaga00/blob/master/linux-svgrepo-com.svg"></a>
-<a href="https://developer.android.com/studio" target="_blank"> <img align="left" alt="Android Studio" height ="35px" src="https://github.com/mafaga00/mafaga00/blob/master/android-studio-icon.svg"></a>
-<a href="https://www.charlesproxy.com/" target="_blank"> <img align="left" alt="Charles" height ="35px" src="https://davidwalsh.name/demo/charlesproxyicon.svg"></a>
-</p>
-<br>
-<h3 align="left">📲 Connection with me:</h3>
-<p align="left">
- <a href="https://t.me/mafaga00" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/ad707d55e42eeff69891381bc2b0dae711ea7957/telegram-svgrepo-com.svg" alt="" height="30" width="40"  /></a>
- <a href="https://vk.com/mafaga00" target="blank"><img align="center"  src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5746c9f35e064a5dcc2e57c7060f34754cdbe1b0/vk-svgrepo-com.svg" alt="" height="30" width="40" /></a>
-</p>
-<br>
+### 🤝 Социальные сети:
 
-### 🖥 My skills:
+<div id="badges">
+  <a href="https://t.me/mafaga00" target="blank">
+   <img src="https://github.com/DenisZhutaev/DenisZhutaev/blob/ad707d55e42eeff69891381bc2b0dae711ea7957/telegram-svgrepo-com.svg" alt="tg" height="30" width="40">
+ </a>
+ <a href="https://vk.com/mafaga00" target="blank">
+   <img src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5746c9f35e064a5dcc2e57c7060f34754cdbe1b0/vk-svgrepo-com.svg" alt="vk" height="30" width="40">
+ </a>
+</div>
+
+---
+
+### 💻 Технологии:
+
+<div>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://github.com/mafaga00/mafaga00/blob/master/python-svgrepo-com.svg" alt="Python" width="40" height="40">
+  </a>
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img src="https://github.com/mafaga00/mafaga00/blob/master/Selenium%20logo%20mark%20green.svg" alt="Selenium" width="40" height="40>&nbsp;
+  </a>
+  <a href="https://docs.pytest.org/en/7.3.x/" target="_blank"> 
+    <img src="https://github.com/DenisZhutaev/DenisZhutaev/blob/master/pytest.svg" alt="Pytest" width="40" height="40>
+  </a>
+  <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank">
+    <img src="https://github.com/mafaga00/mafaga00/blob/master/javascript-logo-svgrepo-com.svg" alt="JavaScript" width="40" height="40">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://github.com/mafaga00/mafaga00/blob/master/sql-database-generic-svgrepo-com.svg" alt="SQL" width="40" height="40">
+  </a>
+</div>
+
+ ---
+
+### 🛠 Инструменты:
+
+<div>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://github.com/mafaga00/mafaga00/blob/master/postman-icon-svgrepo-com.svg" alt="Postman" width="40" height="40">
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://github.com/mafaga00/mafaga00/blob/master/git-svgrepo-com.svg" alt="git" width="40" height="40">
+  </a>
+  <a href="https://miro.com/" target="_blank"> 
+    <img src="https://github.com/mafaga00/mafaga00/blob/master/miro-logos-idG4aRyg5R.svg" alt="Miro" width="40" height="40">
+  </a>
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img src="https://github.com/mafaga00/mafaga00/blob/master/icons8-figma-96.svg" alt="Figma" width="40" height="40">
+  </a>
+  <a href="https://www.atlassian.com/ru/software/jira" target="_blank">
+    <img src="https://github.com/mafaga00/mafaga00/blob/master/jira-svgrepo-com.svg" alt="Jira" width="40" height="40">
+  </a>
+  <a href="https://developer.chrome.com/docs/devtools/" target="_blank">
+    <img src="https://github.com/mafaga00/mafaga00/blob/master/chrome-devtools-svgrepo-com.svg" alt="DevTools" width="40" height="40">
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://github.com/mafaga00/mafaga00/blob/master/linux-svgrepo-com.svg" alt="Linux" width="40" height="40">
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank"> 
+    <img src="https://github.com/mafaga00/mafaga00/blob/master/android-studio-icon.svg" alt="Android Studio" width="40" height="40">
+  </a>
+  <a href="https://www.charlesproxy.com/" target="_blank">
+    <img src="https://davidwalsh.name/demo/charlesproxyicon.svg" alt="Charles" width="40" height="40">
+  </a>
+  <a href="https://jmeter.apache.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg" alt="Jmeter" width="40" height="40">
+  </a>
+  <a href="https://dbeaver.io/" target="_blank">
+    <img src="https://github.com/mafaga00/mafaga00/blob/master/DBeaver-Logo.wine.svg" alt="Dbeaver" width="48" height="48">
+  </a>
+</div>
+
+---
+
+### 🖥 Навыки:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -48,12 +102,11 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitBash](https://img.shields.io/badge/-Git%20Bash-%23000000?style=for-the-badge&logo=Git%20Bash&logoColor=white)
 ![Web Testing](https://img.shields.io/badge/Web%20Testing-3867a2?style=for-the-badge&logo=Web&logoColor=white)
 ![DevTools](https://img.shields.io/badge/DEVTOOLS-fcc525?style=for-the-badge&logo=DEVTOOLS&logoColor=white)
-![Testing Theory](https://img.shields.io/badge/Testing%20Theory-674ea7?style=for-the-badge&logo=Testing-Theory&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-188038?style=for-the-badge&logo=Google-Sheets&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-188038?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)
 ![API Testing](https://img.shields.io/badge/API%20Testing-%23000000?style=for-the-badge&logo=API&logoColor=white)
@@ -63,16 +116,31 @@
 ![DBeaver](https://img.shields.io/badge/-DBeaver-fcc525?style=for-the-badge&logo=DBeaver&logoColor=47C5FB)
 ![Client server](https://img.shields.io/badge/Client%20Server-a25aff?style=for-the-badge&logo=Client-Server&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-ed1c24?style=for-the-badge&logo=SQL&logoColor=47C5FB)
-![GitBash](https://img.shields.io/badge/-Git%20Bash-674ea7?style=for-the-badge&logo=Git%20Bash&logoColor=white)
 ![Charles](https://img.shields.io/badge/-Charles-095fda?style=for-the-badge&logo=JMeter&logoColor=white)
-![JMeter](https://img.shields.io/badge/-JMeter-095fda?style=for-the-badge&logo=JMeter&logoColor=white)
+![JMeter](https://img.shields.io/badge/-JMeter-%23F05033?style=for-the-badge&logo=JMeter&logoColor=pink)
 ![Windows](https://img.shields.io/badge/-windows-fcc525?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-3ae180?style=for-the-badge&logo=Linux&logoColor=white)
+![Testing Theory](https://img.shields.io/badge/Теория%20тестирования-674ea7?style=for-the-badge&logo=Testing-Theory&logoColor=white)
+![Testing Theory](https://img.shields.io/badge/Тест%20дизайн-674ea7?style=for-the-badge&logo=Testing-Theory&logoColor=white)
+![Testing Theory](https://img.shields.io/badge/Сетевые%20технологии-674ea7?style=for-the-badge&logo=Testing-Theory&logoColor=white)
 
-<br>
+---
 
-***
+### ⚙️ GitHub статистика:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafaga00&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=mafaga00&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mafaga00&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
-<br>
+
+
+<p align="center">
+ <img width="700" src="https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg" alt="snake"/>
+</p>
