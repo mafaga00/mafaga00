@@ -18,10 +18,10 @@
 
 <div id="badges">
   <a href="https://t.me/mafaga00" target="blank">
-   <img src="https://github.com/DenisZhutaev/DenisZhutaev/blob/ad707d55e42eeff69891381bc2b0dae711ea7957/telegram-svgrepo-com.svg" alt="tg" height="30" width="40">
+   <img src="https://github.com/mafaga00/mafaga00/blob/master/telegram-svgrepo-com.svg" alt="tg" height="30" width="40">
  </a>
  <a href="https://vk.com/mafaga00" target="blank">
-   <img src="https://github.com/DenisZhutaev/DenisZhutaev/blob/5746c9f35e064a5dcc2e57c7060f34754cdbe1b0/vk-svgrepo-com.svg" alt="vk" height="30" width="40">
+   <img src="https://github.com/mafaga00/mafaga00/blob/master/vk-svgrepo-com.svg" alt="vk" height="30" width="40">
  </a>
 </div>
 
@@ -44,6 +44,12 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://github.com/mafaga00/mafaga00/blob/master/sql-database-generic-svgrepo-com.svg" alt="SQL" width="40" height="40">
+  </a>
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+    <img src="https://github.com/mafaga00/mafaga00/blob/master/HTML.svg" alt="HTML" width="40" height="40">
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.ru.html" target="_blank">
+    <img src="https://github.com/mafaga00/mafaga00/blob/master/CSS.svg" alt="CSS" width="40" height="40">
   </a>
 </div>
 
@@ -142,5 +148,5 @@
 ---
 
 <p align="center">
- <img width="800" src="https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg" alt="snake"/>
+ <img width="800" src="https://github.com/mafaga00/mafaga00/blob/master/github-snake.svg" alt="snake"/>
 </p>
