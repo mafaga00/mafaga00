@@ -34,10 +34,10 @@
     <img src="https://github.com/mafaga00/mafaga00/blob/master/python-svgrepo-com.svg" alt="Python" width="40" height="40">
   </a>
   <a href="https://www.selenium.dev/" target="_blank">
-    <img src="https://github.com/mafaga00/mafaga00/blob/master/Selenium%20logo%20mark%20green.svg" alt="Selenium" width="40" height="40>&nbsp;
+    <img src="https://github.com/mafaga00/mafaga00/blob/master/Selenium%20logo%20mark%20green.svg" alt="Selenium" width="40" height="40">
   </a>
-  <a href="https://docs.pytest.org/en/7.3.x/" target="_blank"> 
-    <img src="https://github.com/DenisZhutaev/DenisZhutaev/blob/master/pytest.svg" alt="Pytest" width="40" height="40>
+  <a href="https://docs.pytest.org/" target="_blank"> 
+    <img src="https://github.com/DenisZhutaev/DenisZhutaev/blob/master/pytest.svg" alt="Pytest" width="40" height="40">
   </a>
   <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank">
     <img src="https://github.com/mafaga00/mafaga00/blob/master/javascript-logo-svgrepo-com.svg" alt="JavaScript" width="40" height="40">
